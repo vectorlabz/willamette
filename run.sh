@@ -29,6 +29,8 @@ GPU_NAME=$(get_gpu_name)
 echo "🔹 GPU: $GPU_NAME"
 echo "🔹 GPU::Init()"
 
+echo "🔹 Running $MODEL"
+
 # Extract title from message.txt
 TITLE=$(head -n1 message.txt | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]/_/g' | sed 's/^_\|_$//g')
 echo "✅ Title extracted"
