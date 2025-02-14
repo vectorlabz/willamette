@@ -8,7 +8,7 @@ macOS=$(defaults read /System/Library/CoreServices/SystemVersion.plist ProductNa
 macOS_version=$(sw_vers -productVersion)
 
 # Select and define your model from https://ollama.com/search
-# model:paremeters
+# model:parameters
 MODEL="deepseek-r1:1.5b"
 
 # Function to get GPU name on macOS
