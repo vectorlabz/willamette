@@ -6,4 +6,4 @@ Willamette is an Ollama-Powered Model Runner designed for macOS and POSIX-compli
 
 - **Concealed Thinking Process**: A feature that hides the thinking process of deepseek. 🔍
 - **Detailed Processing Time**: Provides a detailed output of the time it took to process. ⏱️
-- **POSIX Compliant**: Ensures compatibility with Unix-like operating systems. 💻
+- **Clean Output to markdown or custom formats ✨
