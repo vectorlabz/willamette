@@ -1,6 +1,6 @@
 # Willamette
 
-Willamette is an Ollama-Powered Model Runner designed for POSIX-compliant systems.
+Willamette is an Ollama-Powered Model Runner designed for macOS and POSIX-compliant systems.
 
 ## Features
 
