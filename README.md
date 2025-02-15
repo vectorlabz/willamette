@@ -1,4 +1,4 @@
-![png 23](https://github.com/user-attachments/assets/e37ecb4a-97fb-4880-a41d-19ff6f31ad5d)
+![png 23](https://github.com/user-attachments/assets/7df585ac-ed94-409b-bae1-5742ae18b916)
 
 # Willamette
 
