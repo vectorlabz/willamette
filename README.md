@@ -1,3 +1,5 @@
+![png 23](https://github.com/user-attachments/assets/e37ecb4a-97fb-4880-a41d-19ff6f31ad5d)
+
 # Willamette
 
 Willamette is an Ollama-Powered Model Runner designed for macOS and POSIX-compliant systems.
